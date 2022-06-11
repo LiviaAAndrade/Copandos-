@@ -26,8 +26,12 @@ Proposta de interface elaborada no [Figma](https://www.figma.com/file/reok2nAHcz
 
 ### Etapa 5 - Scrum
 - Definir o *backlog* do Sistema.
+  - Backlog do sistema criado no aplicativo [Monday](https://docs.google.com/spreadsheets/d/1Qfm1NeRvEwB7evWFM4CSzUipmkwbfCILoQyH9a3dRa8/edit?usp=sharing).
 - Definir ao menos a primeira *sprint*.
+  - Elaborar layout e estilização inicial do app
+  - Monetização da aplicação
 - Simular a execução dessa primeira Sprint
+  - [Simulação](https://docs.google.com/document/d/1vfp1t4mJaEQ0qzR0ynRO9YmuerVNpqiLVlL79d67v9U/edit?usp=sharing).
 - Gerar um burndown chart
 - Potenciais ferramentas: Jira Agile, Trello,PangoSCRUM,Monday,Github.
 
