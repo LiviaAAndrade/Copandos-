@@ -33,9 +33,7 @@ Proposta de interface elaborada no [Figma](https://www.figma.com/file/reok2nAHcz
 - Simular a execução dessa primeira Sprint
   - [Simulação](https://docs.google.com/document/d/1vfp1t4mJaEQ0qzR0ynRO9YmuerVNpqiLVlL79d67v9U/edit?usp=sharing).
 - Gerar um burndown chart
-- Potenciais ferramentas: Jira Agile, Trello,PangoSCRUM,Monday,Github.
-
-[Placeholder] 
+  - Burndown Chart gerado em [Google Sheets](https://docs.google.com/spreadsheets/d/19aQbSraKd3F30bib2WuwLlSOoAS9ocdicT6ymBHNIAo/edit?usp=sharing).
 
 ### Etapa 6 - Teste
 - Elaborar um plano de teste para o Sistema
