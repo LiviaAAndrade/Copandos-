@@ -10,14 +10,11 @@
 
 ### Etapa 2 - Interface
 - Proposta de interface(telas e navegação) para o futuro sistema
-
-Proposta de interface elaborada no [Figma](https://www.figma.com/file/reok2nAHczMrAZjgZVaBXE/Copandos?node-id=23%3A34).
+  - Proposta de interface elaborada no [Figma](https://www.figma.com/file/reok2nAHczMrAZjgZVaBXE/Copandos?node-id=23%3A34).
 
 ### Etapa 3 - Gestão e configuração de software
 - Proposta de organização do futuro sistema.
 - Criação de um projeto e inclusão dos documentos produzidos, além de permitir acesso ao professor.
-
-[placeholder]
 
 ### Etapa 4 - Métricas
 - Calcular o número de pontos de função estimado para o Sistema.
