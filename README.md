@@ -7,7 +7,7 @@
 - Elaborar o Diagrama de Casos de Uso
   - [Documentação](https://fatecspgov-my.sharepoint.com/:w:/g/personal/livia_andrade_fatec_sp_gov_br/EfBulysWxi9Aq-QN9GBI9K8Bxm52W5hlMcLrfX3Fc7ud0g?e=jkC50b) sobre identificação de atores e requisitos.
 
-![Untitled](https://user-images.githubusercontent.com/88199845/172770159-fe298e87-c56d-4eb4-8ac2-7e46c8d1bb24.png)
+![Untitled](https://user-images.githubusercontent.com/88199845/172770159-fe298e87-c56d-4eb4-8ac2-7e46c8d1bb24.png)<br>
 
 
 ### Etapa 2 - Interface 📲
